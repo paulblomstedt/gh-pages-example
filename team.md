@@ -8,7 +8,7 @@ title: Team
 Short bio ...
 
 
-# Person B
+# Paul B
 
 Short bio ...
 
